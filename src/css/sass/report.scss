@@ -1,0 +1,57 @@
+.report-linter-block {
+    margin-bottom: 3vh;
+}
+
+.report-tables-container {
+    margin-bottom: 2vh;
+}
+
+.timings-table {
+    margin-left: 2vw;
+}
+
+.status-table {
+    margin-right: 2vw;
+}
+
+.report-table-col {
+    margin-top: 1vh;
+}
+
+.report-messages {
+    margin-bottom: 2vh;
+}
+
+.var-name {
+    font-style: italic;
+}
+
+.report-issue-text {
+    color: $primary-text-color;
+}
+
+.report-source-code {
+    font-size: 0.8em;
+}
+
+.report-issue-desc-block {
+    overflow: auto;
+    width: 100%;
+}
+
+.ant-list-item {
+    overflow: auto;
+    width: 100%;
+}
+
+.report-show-code {
+    margin-right: 15px;
+}
+
+.report-toolbar {
+    margin-bottom: 1.5vh;
+}
+
+.report-table .ant-table {
+    font-size: 0.9em;
+}
